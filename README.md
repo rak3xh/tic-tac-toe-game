@@ -1,2 +1,3 @@
 # tic-tac-toe-game
- tic tac toe game using HTML CSS JS
+
+ tic tac toe is a game  created with the folowing technologies - HTML CSS & JS
