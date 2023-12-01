@@ -53,9 +53,9 @@ My personal portfolio <a href="https://rak3xh-portfolio.vercel.app/" target="_bl
 ## Getting Started
 
 Clone down this repository. <br>
-<code>
 
-<div class="highlight">git clone https://github.com/rak3xh/tic-tac-toe-game.git </div></code>
+<div class="highlight"><code>git clone https://github.com/rak3xh/tic-tac-toe-game.git </code>
+</div>
 
 ## 🛠 Installation and Setup Instructions
 
